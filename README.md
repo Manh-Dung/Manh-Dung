@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dũng</h1>
-<h3 align="center">I am a fresher flutter developer with 6 months of experience</h3>
+<h3 align="center">I am a fresher flutter developer with +1 year of experience</h3>
 
 - 🌱 I’m currently learning **Flutter, Android Native**
 
