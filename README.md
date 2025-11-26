@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dũng</h1>
-<h3 align="center">I am a fresher flutter developer with +1 year of experience</h3>
+<h3 align="center">I am a junior flutter developer with +2 year of experience</h3>
 
 - 🌱 I’m currently learning **Flutter, Android Native**
 
@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **manhdung5a@gmail.com**
 
-- 📄 Know about my experiences [https://www.topcv.vn/xem-cv/UAcCBQYABwhUXQ5TXQsGVg1QAQZYBVkHUAhdAgb94e](https://www.topcv.vn/xem-cv/UAcCBQYABwhUXQ5TXQsGVg1QAQZYBVkHUAhdAgb94e)
+- 📄 Know about my experiences [https://www.topcv.vn/xem-cv/UlEDB14GUQEGBgBWVQYLAAoOBgAGUgdVBwMDBQ621d](https://www.topcv.vn/xem-cv/UlEDB14GUQEGBgBWVQYLAAoOBgAGUgdVBwMDBQ621d)
 
 ## 
 
