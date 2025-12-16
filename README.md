@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dũng</h1>
-<h3 align="center">🚀 Flutter Developer | Product-Minded | 2+ Years Exp</h3>
+<h3 align="center">🚀 Flutter Developer | Product-Minded | ~3 Years Exp</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/nguyễn-mạnh-dũng-9235a0219" target="blank">
@@ -7,9 +7,6 @@
   </a>
   <a href="mailto:manhdung5a@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://www.topcv.vn/xem-cv/UlEDB14GUQEGBgBWVQYLAAoOBgAGUgdVBwMDBQ621d" target="_blank">
-     <img src="https://img.shields.io/badge/CV-View_Profile-00B14F?style=for-the-badge&logo=topcv&logoColor=white" alt="TopCV"/>
   </a>
 </p>
 
