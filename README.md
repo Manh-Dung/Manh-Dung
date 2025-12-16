@@ -68,10 +68,10 @@ I specialize in "Product Apps" (Tools, Utilities) and robust data handling:
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.vercel.app/?user=Manh-Dung&theme=tokyonight&hide_border=true" alt="Manh-Dung's streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Manh-Dung&bg_color=0d1117&color=7F52FF&line=7F52FF&point=FFFFFF&area=true&hide_border=true" alt="Manh-Dung's Activity Graph" />
   <br/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=Manh-Dung&show_icons=true&locale=en&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Manh-Dung's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Manh-Dung&show_icons=true&locale=en&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="manh-dung's GitHub stats" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Manh-Dung&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Manh-Dung's Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Manh-Dung&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="manh-dung's Top Languages" />
 </div>
