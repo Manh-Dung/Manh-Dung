@@ -5,6 +5,9 @@
   <a href="https://linkedin.com/in/nguyễn-mạnh-dũng-9235a0219" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
+  <a href="https://play.google.com/store/apps/developer?id=Pippi" target="blank">
+    <img src="https://img.shields.io/badge/Google_Play-Developer_Profile-3DDC84?style=for-the-badge&logo=google-play&logoColor=white" alt="Google Play"/>
+  </a>
   <a href="mailto:manhdung5a@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
@@ -18,6 +21,20 @@ I am a **Flutter Developer** focused on delivering complete mobile products. My 
 
 - 🔭 I’m currently working on **Flutter & Android Native**.
 - 🤝 Open to freelance opportunities or full-time roles.
+
+---
+
+### 📱 Production Apps
+
+Real-world applications published and maintained on the Google Play Store.
+
+> **[Period Tracker - Cycle Calendar](https://play.google.com/store/apps/details?id=com.pippi.period.tracker.cycle.calendar)**
+> 
+> A smart, privacy-focused utility for tracking menstrual cycles, predicting fertility windows, and monitoring overall health symptoms. Designed with a clean UI and smooth user experience.
+
+> **[PDF Scanner & Reader - OCR](https://play.google.com/store/apps/details?id=com.pdfscanner.pdfeditor)**
+> 
+> A high-performance productivity tool that turns any mobile device into a portable scanner. Features fast document rendering, high-accuracy OCR text recognition, and comprehensive PDF editing capabilities.
 
 ---
 
@@ -71,7 +88,8 @@ I specialize in "Product Apps" (Tools, Utilities) and robust data handling:
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Manh-Dung&bg_color=0d1117&color=7F52FF&line=7F52FF&point=FFFFFF&area=true&hide_border=true" alt="Manh-Dung's Activity Graph" />
   <br/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=Manh-Dung&show_icons=true&locale=en&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="manh-dung's GitHub stats" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Manh-Dung&theme=tokyonight&no-bg=true&margin-w=15" alt="Manh-Dung's Trophies" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Manh-Dung&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="manh-dung's Top Languages" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Manh-Dung&theme=tokyonight&hide_border=true&background=0d1117" alt="Manh-Dung's Streak Stats" />
 </div>
