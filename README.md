@@ -32,6 +32,10 @@ Real-world applications published and maintained on the Google Play Store.
 > 
 > A smart, privacy-focused utility for tracking menstrual cycles, predicting fertility windows, and monitoring overall health symptoms. Designed with a clean UI and smooth user experience.
 
+> **[Mood Tracker - Daily Journal](https://play.google.com/store/apps/details?id=com.mood.tracker.daily.journal)**
+> 
+> An intuitive journaling and emotion-tracking application designed to help users log daily moods and analyze personal well-being trends. Built with a focus on seamless UX and data privacy.
+
 > **[PDF Scanner & Reader - OCR](https://play.google.com/store/apps/details?id=com.pdfscanner.pdfeditor)**
 > 
 > A high-performance productivity tool that turns any mobile device into a portable scanner. Features fast document rendering, high-accuracy OCR text recognition, and comprehensive PDF editing capabilities.
