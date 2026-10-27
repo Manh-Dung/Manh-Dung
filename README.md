@@ -8,6 +8,9 @@
   <a href="https://play.google.com/store/apps/developer?id=Pippi" target="blank">
     <img src="https://img.shields.io/badge/Google_Play-Developer_Profile-3DDC84?style=for-the-badge&logo=google-play&logoColor=white" alt="Google Play"/>
   </a>
+  <a href="https://apps.apple.com/app/pdf-scanner-ocr-text-reader/id6779201459" target="blank">
+    <img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=apple&logoColor=white" alt="App Store"/>
+  </a>
   <a href="mailto:manhdung5a@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
@@ -19,14 +22,26 @@
 
 I am a **Flutter Developer** focused on delivering complete mobile products. My strength lies in building apps that work efficiently, connect data securely, and include monetization strategies.
 
-- 🔭 I’m currently working on **Flutter & Android Native**.
+- 🔭 I’m currently working on **Flutter, Android & iOS**.
 - 🤝 Open to freelance opportunities or full-time roles.
 
 ---
 
 ### 📱 Production Apps
 
-Real-world applications published and maintained on the Google Play Store.
+Real-world applications published and maintained on the Google Play Store and the Apple App Store.
+
+#### 🍎 App Store (iOS)
+
+> **[PDF Reader: Edit, Scan & Sign](https://apps.apple.com/app/pdf-scanner-ocr-text-reader/id6779201459)**
+> 
+> All-in-one PDF reader, editor, scanner & document converter. Convert PDF ↔ Word, Excel & PowerPoint while preserving formatting, scan documents with auto edge detection, fill & sign forms, and merge PDFs.
+
+> **[DoneDone: Daily Habit Tracker](https://apps.apple.com/app/donedone-daily-habit-tracker/id6823957616)**
+> 
+> Build positive daily habits and maintain streaks with flexible habit tracking, a 365-day progress heatmap, Pomodoro focus timer, interactive iOS widgets, and privacy-first offline tracking.
+
+#### 🤖 Google Play (Android)
 
 > **[Period Tracker - Cycle Calendar](https://play.google.com/store/apps/details?id=com.pippi.period.tracker.cycle.calendar)**
 > 
@@ -79,6 +94,7 @@ I specialize in "Product Apps" (Tools, Utilities) and robust data handling:
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
+  <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="iOS" />
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
