@@ -105,10 +105,7 @@ I specialize in "Product Apps" (Tools, Utilities) and robust data handling:
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Manh-Dung&bg_color=0d1117&color=7F52FF&line=7F52FF&point=FFFFFF&area=true&hide_border=true" alt="Manh-Dung's Activity Graph" />
-  <br/>
-  <br/>
-  <img src="https://github-profile-trophy.vercel.app/?username=Manh-Dung&theme=tokyonight&no-bg=true&margin-w=15" alt="Manh-Dung's Trophies" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Manh-Dung&show_icons=true&theme=tokyonight&hide_border=true" alt="Manh-Dung's GitHub Stats" />
   <br/>
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Manh-Dung&theme=tokyonight&hide_border=true&background=0d1117" alt="Manh-Dung's Streak Stats" />
